@@ -2,6 +2,7 @@ AWSTemplateFormatVersion: 2010-09-09
 Description: >
     Olatunde Paul Babawale / Udagram Web Application 2022.
     This template deploys the webservers for the Udagram application, which is available in a public bucket 
+    
 
 Parameters:
 
